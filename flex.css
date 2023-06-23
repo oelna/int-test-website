@@ -67,5 +67,5 @@ html {
 }
 
 .container nav ul a:hover {
-	background: pink;
+	background: rgba(0,0,0,0.2);
 }
